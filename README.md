@@ -1,0 +1,2 @@
+# Field-Guide-Website
+This project was connected to the Field Guide Booklet project featured elsewhere on my page. In this project, we were required to create a functioning website that had at least 8 pages. The subject matter I had chosen was Yokai, supernatural creatures in Japanese culture. I went with a horror theme, which is why the website features a strictly red, black, and white color palette.
